@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="stacy.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.71090067"
+     inkscape:cx="109.01664"
+     inkscape:cy="419.18655"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#504416;stroke-width:0.411624;stroke-linejoin:round;stroke-dasharray:0.411624, 0.823255;paint-order:stroke fill markers"
+       id="rect2"
+       width="212.64241"
+       height="297.26233"
+       x="-2.1053705"
+       y="0.12130554" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;line-height:1.3;font-family:'Futura PT';-inkscape-font-specification:'Futura PT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#c8c4b7;stroke-width:0.397999;stroke-linejoin:round;stroke-dasharray:0.397999, 0.796004;paint-order:stroke fill markers"
+       x="21.958647"
+       y="23.075188"
+       id="text2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Futura PT';-inkscape-font-specification:'Futura PT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c8c4b7;stroke-width:0.398"
+         x="21.958647"
+         y="23.075188"
+         id="tspan3">BREW AND CHILL</tspan></text>
+    <rect
+       style="fill:#c8c4b7;stroke-width:0.397999;stroke-linejoin:round;stroke-dasharray:0.397999, 0.796004;paint-order:stroke fill markers"
+       id="rect5"
+       width="82.624054"
+       height="20.097744"
+       x="27.169172"
+       y="279.87967" />
+  </g>
+</svg>
